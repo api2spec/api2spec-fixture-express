@@ -32,3 +32,6 @@ generated/
 
 # Misc
 *.tsbuildinfo
+
+# Claude Code
+.claude/
